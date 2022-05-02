@@ -1,5 +1,7 @@
 # NIDDK EDA and Modelling
 
+![image](https://user-images.githubusercontent.com/70332585/166266974-e7ff559b-33a2-43c7-8c7c-6f500dd1f33a.png)
+
 1. [Project Motivation](#ProjectMotivation)
 2. [Installation](#installation)
 3. [Data](#data)
@@ -38,7 +40,7 @@ The dataset is collected from the National Institute of Diabetes and Digestive a
   
 ## 3. Data<a name="data"></a> 
 
-collected from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://repository.niddk.nih.gov/home/)
+Collected from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://repository.niddk.nih.gov/home/)
 Also uploaded above by the name : ["NIDDK dataset.csv"](https://github.com/piyushkumar08/NIDDK/blob/main/Dataset/NIDDK%20dataset.csv)
 
 
